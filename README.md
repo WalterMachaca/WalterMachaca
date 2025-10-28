@@ -1,16 +1,23 @@
-## Hi there 👋
+## PORTAFOLIO DIGITAL
 
-<!--
-**WalterMachaca/WalterMachaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Presentación-->
+<div id="user-content-toc" style="text-align: center;">
+    <h1 style="display: inline-block;">Hola 👋, Mi nombre es Walter</h1>
+</div>
+<div id="user-content-toc" style="text-align: center;">
+    <h2 style="display: inline-block;">Soy aficionado en el desarrollo Frontend</h2>
+</div>
 
-Here are some ideas to get you started:
+<hr width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Lenguajes de programación</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waltermachaca&layout=compact&langs_count=5&hide=C,cython,XSLT,Fortran,PowerShell,Smarty&theme=dark"
+    alt="Top Langs - WalterMachaca" style="float: left; margin-right: 25px; margin-bottom: 25px" />
+
+<h3>Estadísticas</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=WalterMachaca&show_icons=true&theme=dark"
+    alt="Github stats - WalterMachaca" style="float: left; margin-right: 25px; margin-bottom: 25px" />
+
+<h3>Proyectos destacados</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterMachaca&repo=PRG_Practica_array"
+    alt="Github stats - WalterMachaca" style="float: left; margin-right: 25px; margin-bottom: 25px" />
