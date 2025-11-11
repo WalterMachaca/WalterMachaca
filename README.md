@@ -18,6 +18,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=WalterMachaca&show_icons=true&theme=dark"
     alt="Github stats - WalterMachaca" style="float: left; margin-right: 25px; margin-bottom: 25px" />
 
-<h3>Proyectos destacados</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterMachaca&repo=PRG_Practica_array"
-    alt="Github stats - WalterMachaca" style="float: left; margin-right: 25px; margin-bottom: 25px" />
+
